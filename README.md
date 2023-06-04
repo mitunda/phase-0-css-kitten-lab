@@ -6,7 +6,7 @@
 - Practice using CSS selectors
 
 ## Introduction
-
+https://github.com/mitunda/phase-0-css-kitten-lab.git
 Oh no! All of our kittens have escaped from the wheelbarrow and we need to get
 them back in. Help collect all the kittens and put them into the wheelbarrow
 using CSS selectors and absolute positioning.
